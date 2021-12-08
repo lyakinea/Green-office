@@ -1,0 +1,41 @@
+body {
+    background-image:url(./assets/img/fond.png);
+    margin: 0 auto;
+    max-width: 750px;
+}
+main{
+    background-color:white;
+}
+header {
+    background-color:#B8CB21;
+    display:flex;
+    justify-content: space-between;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav a{
+    padding: 0 20px;
+}
+h1{
+    color:#B8CB21;
+}
+.clearfix{
+clear:both;
+}
+
+.img2 {
+    float: left;
+    width: 300px;
+    height: 130px;
+    margin: 10px;
+}
+footer{
+    text-align: center;
+}
+.img3{
+    width: 50px;
+    height: 60px;
+}
